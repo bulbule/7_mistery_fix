@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+A program contains a function that solves a quadratic equation in real numbers.
 
 # Project Goals
 
