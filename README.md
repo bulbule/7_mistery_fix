@@ -1,6 +1,7 @@
 # Quadratic Equations Solver
 
-A program contains a function that solves a quadratic equation in real numbers.
+A program quadratic_equation.py contains a function that solves a quadratic equation in real numbers. 
+A file tests.py is for testing purposes.
 
 # Project Goals
 
